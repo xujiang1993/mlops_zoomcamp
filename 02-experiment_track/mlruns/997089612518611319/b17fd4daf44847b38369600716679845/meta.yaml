@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/b17fd4daf44847b38369600716679845/artifacts
+deleted_time: 1716666421038
+end_time: 1716666395071
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: b17fd4daf44847b38369600716679845
+run_name: amusing-stoat-798
+run_uuid: b17fd4daf44847b38369600716679845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716666383151
+status: 4
+tags: []
+user_id: codespace

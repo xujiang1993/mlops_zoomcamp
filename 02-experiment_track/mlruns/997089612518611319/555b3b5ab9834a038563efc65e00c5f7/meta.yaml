@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/555b3b5ab9834a038563efc65e00c5f7/artifacts
+deleted_time: 1716666421044
+end_time: 1716665806628
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: 555b3b5ab9834a038563efc65e00c5f7
+run_name: judicious-duck-115
+run_uuid: 555b3b5ab9834a038563efc65e00c5f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716665794845
+status: 4
+tags: []
+user_id: codespace

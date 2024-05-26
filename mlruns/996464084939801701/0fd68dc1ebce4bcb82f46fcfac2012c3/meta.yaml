@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/mlruns/996464084939801701/0fd68dc1ebce4bcb82f46fcfac2012c3/artifacts
+end_time: 1716665966693
+entry_point_name: ''
+experiment_id: '996464084939801701'
+lifecycle_stage: active
+run_id: 0fd68dc1ebce4bcb82f46fcfac2012c3
+run_name: masked-seal-899
+run_uuid: 0fd68dc1ebce4bcb82f46fcfac2012c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716665966682
+status: 4
+tags: []
+user_id: codespace

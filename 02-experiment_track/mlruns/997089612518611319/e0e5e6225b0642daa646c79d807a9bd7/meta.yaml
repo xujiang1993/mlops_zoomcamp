@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/e0e5e6225b0642daa646c79d807a9bd7/artifacts
+deleted_time: 1716666421051
+end_time: 1716665518424
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: e0e5e6225b0642daa646c79d807a9bd7
+run_name: efficient-grouse-587
+run_uuid: e0e5e6225b0642daa646c79d807a9bd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716665506618
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/6225987194fc40a4acd98caad5c49cd0/artifacts
+deleted_time: 1716748918491
+end_time: 1716667521305
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: 6225987194fc40a4acd98caad5c49cd0
+run_name: brawny-elk-871
+run_uuid: 6225987194fc40a4acd98caad5c49cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716667498902
+status: 4
+tags: []
+user_id: codespace

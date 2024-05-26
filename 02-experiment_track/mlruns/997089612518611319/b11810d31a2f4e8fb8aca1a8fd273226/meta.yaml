@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/b11810d31a2f4e8fb8aca1a8fd273226/artifacts
+deleted_time: 1716748918491
+end_time: 1716667893414
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: b11810d31a2f4e8fb8aca1a8fd273226
+run_name: learned-wasp-140
+run_uuid: b11810d31a2f4e8fb8aca1a8fd273226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716667875906
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/0b56160ee3404f36aac614d2548ab5d1/artifacts
+deleted_time: 1716666421049
+end_time: 1716665748170
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: 0b56160ee3404f36aac614d2548ab5d1
+run_name: abrasive-mole-917
+run_uuid: 0b56160ee3404f36aac614d2548ab5d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716665736291
+status: 4
+tags: []
+user_id: codespace

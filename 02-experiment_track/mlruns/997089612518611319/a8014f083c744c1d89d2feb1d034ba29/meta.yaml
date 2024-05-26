@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/a8014f083c744c1d89d2feb1d034ba29/artifacts
+deleted_time: 1716748918501
+end_time: 1716666584321
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: a8014f083c744c1d89d2feb1d034ba29
+run_name: colorful-fox-66
+run_uuid: a8014f083c744c1d89d2feb1d034ba29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716666572518
+status: 4
+tags: []
+user_id: codespace

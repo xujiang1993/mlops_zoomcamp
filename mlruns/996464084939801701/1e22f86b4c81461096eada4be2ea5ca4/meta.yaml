@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/mlruns/996464084939801701/1e22f86b4c81461096eada4be2ea5ca4/artifacts
+end_time: 1716665947133
+entry_point_name: ''
+experiment_id: '996464084939801701'
+lifecycle_stage: active
+run_id: 1e22f86b4c81461096eada4be2ea5ca4
+run_name: sedate-mare-151
+run_uuid: 1e22f86b4c81461096eada4be2ea5ca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716665947122
+status: 4
+tags: []
+user_id: codespace

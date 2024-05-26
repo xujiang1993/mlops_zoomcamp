@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/e4cfba34e4084db8a7de4e20ec718308/artifacts
+deleted_time: 1716666421048
+end_time: 1716665713117
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: e4cfba34e4084db8a7de4e20ec718308
+run_name: suave-fawn-900
+run_uuid: e4cfba34e4084db8a7de4e20ec718308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716665701265
+status: 4
+tags: []
+user_id: codespace

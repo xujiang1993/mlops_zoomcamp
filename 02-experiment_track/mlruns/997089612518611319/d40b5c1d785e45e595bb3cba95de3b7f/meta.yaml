@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment_track/mlruns/997089612518611319/d40b5c1d785e45e595bb3cba95de3b7f/artifacts
+deleted_time: 1716748918497
+end_time: 1716667341306
+entry_point_name: ''
+experiment_id: '997089612518611319'
+lifecycle_stage: deleted
+run_id: d40b5c1d785e45e595bb3cba95de3b7f
+run_name: colorful-robin-376
+run_uuid: d40b5c1d785e45e595bb3cba95de3b7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716667329121
+status: 4
+tags: []
+user_id: codespace
